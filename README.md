@@ -94,8 +94,5 @@ College campuses for incident reporting and alerts
 
 Smart cities integrating public safety analytics
 
-<<<<<<< Updated upstream
 Disaster or emergency response coordination
-=======
-Disaster or emergency response coordination
->>>>>>> Stashed changes
+
