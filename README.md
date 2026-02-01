@@ -1,6 +1,6 @@
 # Mockery
 Mock Hack
 
-Cunts list:
+Heroes list:
 Sandeep 
 Akash
