@@ -1,0 +1,40 @@
+# ===== Node / MERN =====
+node_modules/
+**/node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ===== Environment variables (ALL) =====
+.env
+.env.*
+**/.env
+**/.env.*
+
+# ===== Build outputs =====
+# Frontend (React / Vite)
+client/dist/
+client/build/
+
+# Backend
+server/dist/
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Editor / IDE =====
+.vscode/
+.idea/
+*.swp
+
+# ===== Coverage =====
+coverage/
+
+# ===== Optional =====
+*.tgz
